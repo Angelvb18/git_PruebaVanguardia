@@ -1,0 +1,12 @@
+.container-forms{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 200px;
+    width: 600px;
+    background: #e4e2e2;
+    padding-bottom: 30px;
+}
+.error-msg{
+    color: red;
+}
